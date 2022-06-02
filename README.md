@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiosAnger
-- 👀 I’m interested in ... tecnology in general
+- 👀 I’m interested in ... technology in general
 - 🌱 I’m currently learning ... about css,html,javascript, c++,NFT, blockchain...
 - 💞️ I’m looking to collaborate on ... what i am able to collaborate
 - 📫 How to reach me ... 
